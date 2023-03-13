@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Achats2</string>
+
+    <string name="itemName">TextView2</string>
+    <string name="itemUpdate">TextView1</string>
+
+    <string name="itemDelete">textViewDelte</string>
+    <string name="entrer_la_quantite">Entrer la quantite</string>
+    <string name="entrer_un_item_a_acheter">Entrer un item a acheter</string>
+    <string name="Ajouter">Ajouter</string>
+
+    <string name="entrer_la_quantite_a_acheter" />
+    <string name="quantite" />
+    <string name="name" />
+
+    <string name="editText1">Name</string>
+    <string name="something">editText2</string>
+    <string name="Name">editText1</string>
+    <string name="itemname">itemname</string>
+    <string name="itemquantity">itemquantity</string>
+</resources>
