@@ -18,4 +18,8 @@
     <string name="Name">editText1</string>
     <string name="itemname">itemname</string>
     <string name="itemquantity">itemquantity</string>
+    <string name="ajouter_une_nouvelle_liste">Ajouter une nouvelle liste</string>
+    <string name="vider_la_liste">Vider la liste</string>
+    <string name="a_propos">A propos</string>
+    <string name="list1">List1</string>
 </resources>
